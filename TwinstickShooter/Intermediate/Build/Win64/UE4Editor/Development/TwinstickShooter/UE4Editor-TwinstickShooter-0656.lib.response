@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TwinstickShooter-0656.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\BaseCharacter.cpp.obj"
+"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\TwinstickShooter.cpp.obj"
+"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\BaseCharacter.gen.cpp.obj"
+"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\TwinstickShooter.init.gen.cpp.obj"
+"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\Default.rc2.res"
+/OUT:"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\UE4Editor-TwinstickShooter-0656.lib"
+/INCLUDE:IMPLEMENT_MODULE_TwinstickShooter
