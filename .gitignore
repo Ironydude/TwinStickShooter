@@ -28,9 +28,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
-/.vs
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
 # End of https://www.toptal.com/developers/gitignore/api/windows
