@@ -14,8 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define TWINSTICKSHOOTER_BaseCharacter_generated_h
 
 #define TwinstickShooter_Source_TwinstickShooter_BaseCharacter_h_12_SPARSE_DATA
-#define TwinstickShooter_Source_TwinstickShooter_BaseCharacter_h_12_RPC_WRAPPERS
-#define TwinstickShooter_Source_TwinstickShooter_BaseCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define TwinstickShooter_Source_TwinstickShooter_BaseCharacter_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execCalculateHealth);
+
+
+#define TwinstickShooter_Source_TwinstickShooter_BaseCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execCalculateHealth);
+
+
 #define TwinstickShooter_Source_TwinstickShooter_BaseCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABaseCharacter(); \

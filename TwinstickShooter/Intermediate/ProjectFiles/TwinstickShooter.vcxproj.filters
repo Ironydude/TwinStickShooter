@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TwinstickShooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{3D096E43-CF8F-4407-8F1A-98FD8DD4BD01}</UniqueIdentifier>
+      <UniqueIdentifier>{5CB83A6A-4449-41B7-82B3-46E8FDEBBF97}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TwinstickShooter.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\TwinstickShooterEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
     <Filter Include="Config">
-      <UniqueIdentifier>{0D860EA6-0BCA-4B14-A4A9-2F6592487661}</UniqueIdentifier>
+      <UniqueIdentifier>{1F1C40F6-70A2-4C88-A925-A92DFDE1BB7B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,12 +28,18 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TwinstickShooter">
-      <UniqueIdentifier>{7A9D9EBA-0438-42D1-85BF-BCF92E8DEFF9}</UniqueIdentifier>
+      <UniqueIdentifier>{2C07D2E0-5DD1-4208-B668-C97E9CF0BC03}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TwinstickShooter\BaseCharacter.cpp">
       <Filter>Source\TwinstickShooter</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TwinstickShooter\BaseCharacter.h">
+      <Filter>Source\TwinstickShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TwinstickShooter\MyCharacter.cpp">
+      <Filter>Source\TwinstickShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TwinstickShooter\MyCharacter.h">
       <Filter>Source\TwinstickShooter</Filter>
     </ClInclude>
     <None Include="..\..\Source\TwinstickShooter\TwinstickShooter.Build.cs">

@@ -1,9 +1,9 @@
-D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\Definitions.TwinstickShooter.h
-D:\Program Files\Unreal Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files\Unreal Engine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Source\TwinstickShooter/BaseCharacter.h
-D:\Program Files\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\Program Files\Unreal Engine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\Program Files\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\Program Files\Unreal Engine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Inc\TwinstickShooter\BaseCharacter.generated.h
+D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\Definitions.TwinstickShooter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\STUDY\TwinStickShooter\TwinstickShooter\Source\TwinstickShooter/BaseCharacter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+d:\study\twinstickshooter\twinstickshooter\intermediate\build\win64\ue4editor\inc\twinstickshooter\BaseCharacter.generated.h

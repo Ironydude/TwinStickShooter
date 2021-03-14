@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TwinstickShooter",
-			"Path": "D:\\Portfolio\\HENRY\\HE005_TwinStickShooter\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter.Target.cs",
+			"Path": "D:\\STUDY\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TwinstickShooterEditor",
-			"Path": "D:\\Portfolio\\HENRY\\HE005_TwinStickShooter\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooterEditor.Target.cs",
+			"Path": "D:\\STUDY\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooterEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

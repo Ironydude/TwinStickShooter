@@ -1,2 +1,2 @@
-D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\Definitions.TwinstickShooter.h
-D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Source\TwinstickShooter\TwinstickShooter.h
+D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\Definitions.TwinstickShooter.h
+d:\study\twinstickshooter\twinstickshooter\source\twinstickshooter\TwinstickShooter.h

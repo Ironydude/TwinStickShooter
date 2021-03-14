@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Portfolio\\HENRY\\HE005_TwinStickShooter\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter\\TwinstickShooter.Build.cs",
-		"D:\\Portfolio\\HENRY\\HE005_TwinStickShooter\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter.Target.cs",
-		"D:\\Portfolio\\HENRY\\HE005_TwinStickShooter\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooterEditor.Target.cs"
+		"D:\\STUDY\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter\\TwinstickShooter.Build.cs",
+		"D:\\STUDY\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooter.Target.cs",
+		"D:\\STUDY\\TwinStickShooter\\TwinstickShooter\\Source\\TwinstickShooterEditor.Target.cs"
 	],
 	"EngineVersion": "4.25.3"
 }

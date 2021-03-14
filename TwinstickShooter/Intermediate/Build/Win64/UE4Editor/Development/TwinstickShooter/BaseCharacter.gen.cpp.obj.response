@@ -230,8 +230,8 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Inc\TwinstickShooter
-/I D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Source
+/I D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Inc\TwinstickShooter
+/I D:\STUDY\TwinStickShooter\TwinstickShooter\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -255,18 +255,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Inc\TwinstickShooter\BaseCharacter.gen.cpp"
-/FI"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\Definitions.TwinstickShooter.h"
-/Fo"D:\Portfolio\HENRY\HE005_TwinStickShooter\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\BaseCharacter.gen.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\TwinstickShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Inc\TwinstickShooter\BaseCharacter.gen.cpp"
+/FI"D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\Definitions.TwinstickShooter.h"
+/Fo"D:\STUDY\TwinStickShooter\TwinstickShooter\Intermediate\Build\Win64\UE4Editor\Development\TwinstickShooter\BaseCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
